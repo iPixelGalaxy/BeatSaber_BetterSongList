@@ -1,3 +1,10 @@
+# This Repos Modifications
+
+Added back JD (which was the default instead of Map Age in versions prior 0.3.4)
+Added option for RT
+
+This versions default settings are BeatLeader Leaderboard and Reaction Time
+
 # Better Song List
 
 The smaller brother of [Better Song Search](https://github.com/kinsi55/BeatSaber_BetterSongSearch#better-song-search). Adds Various improvements to the Basegame Map list like Filters, a persisted state and much more. Aims to be highly optimized.
