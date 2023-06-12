@@ -27,7 +27,9 @@ namespace BetterSongList {
 
 		public bool AllowPluginSortsAndFilters { get; set; } = true;
 
-		public string PreferredLeaderboard { get; set; } = "ScoreSaber";
+		public string PreferredLeaderboard { get; set; } = "BeatLeader";
+
+		public string PreferredMiscSetting { get; set; } = "Reaction Time";
 
 		/// <summary>
 		/// This is called whenever BSIPA reads the config from disk (including when file changes are detected).

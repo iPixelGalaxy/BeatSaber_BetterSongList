@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterSongList", "BetterSongList.csproj", "{94971D63-2634-4840-BFD6-01FFC7DA5391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94971D63-2634-4840-BFD6-01FFC7DA5391}.Debug|x64.ActiveCfg = Debug|x64
+		{94971D63-2634-4840-BFD6-01FFC7DA5391}.Debug|x64.Build.0 = Debug|x64
+		{94971D63-2634-4840-BFD6-01FFC7DA5391}.Release|x64.ActiveCfg = Release|x64
+		{94971D63-2634-4840-BFD6-01FFC7DA5391}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5537DE35-44BD-4B32-A6DB-72BC83FC2758}
+	EndGlobalSection
+EndGlobal
